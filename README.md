@@ -55,4 +55,12 @@ https://github.com/APACHE-0002/letmeask2
 
  ![Capturar](https://user-images.githubusercontent.com/48190578/134734786-107fa3c2-2050-47c5-9632-e3ebaf1e0080.PNG)
 
+ <br/>
  
+### DtMoney
+ 
+#### Aplicação utilizando Typescript, onde é possivel o usuario organizar seu controle de gastos, o App funciona como uma calculadora, onde você cadastra quanta renda esta entrando, e o quanto foi gasto, e é possivel armazenar o historico desses gastos, com o titulo, valor e data da transação efetuada.
+ https://github.com/APACHE-0002/DTmoney
+ 
+ ![hnh](https://user-images.githubusercontent.com/48190578/134736514-e63f3d21-cf68-4354-bbfa-775879a2db52.PNG)
+
