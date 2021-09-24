@@ -45,3 +45,14 @@
 #### Projeto desenvolvido utilizando das tecnologias, React e Redux, possibilitando armazenar todas as alterações da aplicação em tempo real, nele é possivel o usuario escolher quais e quantos produtos quer na pagina principal e no carrinho de compras é possivel verificar,alterar e deletar os produtos, além de obter em tempo real o valor total e dos produtos; Toda estilização do site foi feita em Sass.  
 https://github.com/APACHE-0002/rocketshoes
 ![image](https://user-images.githubusercontent.com/48190578/134696318-0c7b54f0-2236-46c5-87d2-3541466cda59.png)
+ 
+<br/>
+ 
+ 
+### LetmeAsk
+#### Aplicação onde é possivel fazer perguntas para o apresentador em tempo real, nesse aplicativo o usuario consegue logar em sua conta google, entrar na sala do apresentador e fazer suas perguntas, ou caso seja o apresentador, criar uma sala, e deixar o endereço dela disponivel para os usuarios fazerem suas perguntas.
+https://github.com/APACHE-0002/letmeask2
+
+ ![Capturar](https://user-images.githubusercontent.com/48190578/134734786-107fa3c2-2050-47c5-9632-e3ebaf1e0080.PNG)
+
+ 
