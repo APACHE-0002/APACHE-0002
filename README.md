@@ -52,8 +52,11 @@ https://github.com/APACHE-0002/rocketshoes
 ### LetmeAsk
 #### Aplicação onde é possivel fazer perguntas para o apresentador em tempo real, nesse aplicativo o usuario consegue logar em sua conta google, entrar na sala do apresentador e fazer suas perguntas, ou caso seja o apresentador, criar uma sala, e deixar o endereço dela disponivel para os usuarios fazerem suas perguntas.
 https://github.com/APACHE-0002/letmeask2
-
+ <div align="center"> 
+  
  ![Capturar](https://user-images.githubusercontent.com/48190578/134734786-107fa3c2-2050-47c5-9632-e3ebaf1e0080.PNG)
+  
+  </div>
 
  <br/>
  
@@ -63,4 +66,32 @@ https://github.com/APACHE-0002/letmeask2
  https://github.com/APACHE-0002/DTmoney
  
  ![hnh](https://user-images.githubusercontent.com/48190578/134736514-e63f3d21-cf68-4354-bbfa-775879a2db52.PNG)
+
+<br/>
+ 
+### WatchMe
+#### Aplicação React utilizando Json-Server para Fake Api, onde é armazenado titulos, imagens e outros arquivos que seriam absorvidos em uma api, foram utilizando estados, e propriedades entre componentes para a comunicação entre paginas da aplicação, a própria tem como objetivo ser um catalogo de filmes, com temas variados.
+https://github.com/APACHE-0002/watchmeapp
+ 
+ 
+ ![fff](https://user-images.githubusercontent.com/48190578/134739186-dd8b67ec-8372-4f0f-9fee-de1124b452ca.PNG)
+ 
+ <br/>
+ 
+ ### Podcastr
+ #### Plataforma de podcasts criada em NextJs e implementado o ReactJs com Typescript, aplicação com base de dados em Json-Server, onde é possivel escutar seus Podcasts preferidos, com um player funcional, além da pagina ter a funcionalidade de modo escuro, caso o usuario desejar escutar um podcast de noite! 
+ https://github.com/APACHE-0002/nlwpodcast
+ 
+ 
+![sass](https://user-images.githubusercontent.com/48190578/134740406-d7bee283-0699-4bb9-a6b5-bc74b0c306d6.PNG)
+
+ 
+<br/>
+<br/>
+ 
+# Projeto em Desenvolvimento
+### Everest
+#### Sistema de organização de quartos e clientes para Hotelaria...
+ 
+ ![Component 161](https://user-images.githubusercontent.com/48190578/134741149-25c667d5-fdab-4b8b-a052-08ecff4ff521.png)
 
